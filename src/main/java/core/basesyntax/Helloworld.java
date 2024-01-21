@@ -41,7 +41,7 @@ public class Helloworld {
         System.out.println(string);
         variable = LocalDate.now().getYear();
         System.out.println("It is " + variable + "year");
-        age = 25;
+        age = 24;
         System.out.println("I'm " + age);
         size = 42;
         System.out.println("The size is " + size);
